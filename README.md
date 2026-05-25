@@ -10,6 +10,16 @@ This project demonstrates backend state management using **Django Sessions and C
 - **Responsive UI:** A sleek, dark-themed frontend with smooth hover animations and a responsive design using CSS `clamp()`.
 
 ---
+
+## 📸 Screenshots
+
+Here is a glimpse of how the application looks in action:
+
+<p align="center">
+  <img src="assets/page-count-expiry.png" alt="Django Page Counter UI" width="800" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+</p>
+
+
 ## 🛠️ Tech Stack
 
 <table>
