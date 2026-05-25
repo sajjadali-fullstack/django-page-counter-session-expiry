@@ -48,6 +48,12 @@ Here is a glimpse of how the application looks in action:
 * **Typography:** Fluid sizing utilizing CSS `clamp()` for perfect responsiveness on mobile & desktop.
 * **Icons:** Font Awesome CDN.
 
+
+## 🔧 Installation & Setup
+ 1. pip install django
+ 2. python manage.py migrate
+ 3. python manage.py runserver
+
 ---
 
 # 🤝 Connect with Me
@@ -73,7 +79,6 @@ Agar aapke paas koi sawal hai ya aap connect karna chahte hain, toh aap mujhe ni
 
   </a>
 
----
 
 ## 💖 Support & Usage
 
