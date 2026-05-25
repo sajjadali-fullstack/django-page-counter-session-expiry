@@ -1,0 +1,26 @@
+/* UNIVERSAL SELECTOR */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+/* Body */
+body {
+    /* background-color: black; */
+    color: white;
+}
+
+/* H1 */
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+/* Span */
+span {
+    font-size: 30px;
+    color: cornflowerblue;
+}
