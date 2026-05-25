@@ -9,13 +9,6 @@ This project demonstrates backend state management using **Django Sessions and C
 - **Auto-Expiry:** Sessions are configured to expire automatically after 10 seconds of inactivity (`request.session.set_expiry(10)`).
 - **Responsive UI:** A sleek, dark-themed frontend with smooth hover animations and a responsive design using CSS `clamp()`.
 
-## 🛠️ Tech Stack
-
-- **Backend:** Python, Django
-- **Frontend:** HTML5, CSS3 (Flexbox, Fluid Typography)
-- **Icons:** Font Awesome CDN
-
-
 ---
 ## 🛠️ Tech Stack
 
@@ -47,23 +40,27 @@ This project demonstrates backend state management using **Django Sessions and C
 
 ---
 
-## 🤝 Connect with Me
+# 🤝 Connect with Me
 
-Agar aapke paas koi sawal hai ya aap connect karna chahte hain, toh aap mujhe niche diye gaye platforms par reach out kar sakte hain: <br>
-<i>If you have any questions or would like to connect, feel free to reach out to me on the platforms below:"</i>
+Agar aapke paas koi sawal hai ya aap connect karna chahte hain, toh aap mujhe niche diye gaye platforms par reach out kar sakte hain:
+<br>
+*If you have any questions or would like to connect, feel free to reach out to me on the platforms below:*
 
-* **LinkedIn:**  
+<p>
   <a href="https://www.linkedin.com/in/sajjadali-fullstack/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sajjadali.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
-* **Gmail:**  
-  <a href="mailto:sajjadali.dev01@gmail.com">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="50" alt="Gmail"/>
-  </a>
+---
 
 ## 💖 Support & Usage
+
 If you find this project helpful or plan to use it as a template for your learning, please consider:
 1. Giving it a **Star ⭐**
-2. Giving credit to the original author
+2. Giving credit to the original author.
 
