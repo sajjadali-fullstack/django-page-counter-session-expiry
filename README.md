@@ -46,15 +46,22 @@ Agar aapke paas koi sawal hai ya aap connect karna chahte hain, toh aap mujhe ni
 <br>
 *If you have any questions or would like to connect, feel free to reach out to me on the platforms below:*
 
-<p>
+* **LinkedIn:**  
+
   <a href="https://www.linkedin.com/in/sajjadali-fullstack/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn"/>
+
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:sajjadali.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+
+
+* **Gmail:**  
+
+  <a href="mailto:sajjadali.dev01@gmail.com">
+
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="50" alt="Gmail"/>
+
   </a>
-</p>
 
 ---
 
